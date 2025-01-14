@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @GutoJJ
-- 👀 I’m interested in Design
-- 🌱 I’m currently learning Ruby on Rails
+- 👋 Hi, I’m Augusto Jung
+- 🌱 I’m currently learning Flutter
 - 📫 Reach me on Discord: .naydrus
 
 <!---
