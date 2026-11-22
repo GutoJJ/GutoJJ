@@ -30,5 +30,5 @@ Back-end developer based in Taquara, Brazil. I build APIs and cloud-based servic
 
 ## Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gutojj)
 [![Portfolio](https://img.shields.io/badge/Portfolio-78AEED?style=for-the-badge&logo=vercel&logoColor=black)](https://gutojj-dev.vercel.app)
